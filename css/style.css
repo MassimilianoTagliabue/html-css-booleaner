@@ -8,3 +8,18 @@
     margin-top: 70px;
 }
 
+h1{
+    font-size: 50px;
+}
+
+.autore{
+    color: cornflowerblue;
+}
+
+.data-scrittura{
+    color: grey;
+}
+
+.descrizione-foto{
+    font-size: 12px;
+}
