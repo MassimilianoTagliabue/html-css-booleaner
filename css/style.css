@@ -1,3 +1,7 @@
+body{
+    font-family: "Open Sans", sans-serif;
+}
+
 .background-top{
     background-color: #6495ed;
     background-image: url(../img/pattern.png);
@@ -12,14 +16,38 @@ h1{
     font-size: 50px;
 }
 
-.autore{
+.author{
     color: cornflowerblue;
 }
 
-.data-scrittura{
+.data-writing{
     color: grey;
 }
 
-.descrizione-foto{
+.description-foto{
     font-size: 12px;
+}
+
+.highlight{
+    background-color: yellow;
+}
+
+th{
+    background-color: #19c9ff;
+    color: white;
+}
+
+.table{
+    border: no border;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.background-tr{
+    background-color: #12bdf1;
+}
+
+
+.cell-size{
+    width: 25%;
 }
