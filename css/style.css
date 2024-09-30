@@ -51,3 +51,24 @@ th{
 .cell-size{
     width: 25%;
 }
+
+.final-img1{
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    /* background-size: contain; */
+    width: 300px;
+    height: 200px;
+}
+
+.final-img2{
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    /* background-size: contain; */
+    width: 300px;
+    height: 200px;
+}
+
+.final-title{
+    color: white;
+    font-size: 20px;
+}
